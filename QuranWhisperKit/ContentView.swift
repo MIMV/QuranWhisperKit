@@ -1,5 +1,5 @@
 //  For licensing see accompanying LICENSE.md file.
-//  Copyright © 2024 Argmax, Inc. All rights reserved.
+//  Copyright © 2025 MIMV LLC, Inc. All rights reserved.
 
 import SwiftUI
 import WhisperKit
